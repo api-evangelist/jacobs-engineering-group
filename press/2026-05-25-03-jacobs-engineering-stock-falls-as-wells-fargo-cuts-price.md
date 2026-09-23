@@ -1,7 +1,9 @@
 ---
 title: Jacobs Engineering stock falls as Wells Fargo cuts price ...
 url: https://www.investing.com/news/analyst-ratings/jacobs-engineering-stock-falls-as-wells-fargo-cuts-price-target-on-ai-concerns-93CH-4372616
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jacobs Engineering Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

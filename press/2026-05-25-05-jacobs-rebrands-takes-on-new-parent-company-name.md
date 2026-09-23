@@ -1,7 +1,9 @@
 ---
 title: Jacobs rebrands, takes on new parent company name
 url: https://www.constructiondive.com/news/jacobs-solutions-implements-new-holding-company-structure/630230/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jacobs Engineering Group" press release artificial intelligence'
 position: 5
 source: serpapi-google
